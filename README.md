@@ -1,7 +1,9 @@
-# Program # X
-Name:  
+# Program # 2
+Name: Aaron Loken
 Cosc 4735
 
-Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
+Description:
+ - Run on a pixel
+ - Didn't have a `default.keyset` file
 
 Anything that doesn't work:
