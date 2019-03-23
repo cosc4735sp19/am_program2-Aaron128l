@@ -7,3 +7,7 @@ Description:
  - Didn't have a `default.keyset` file
 
 Anything that doesn't work:
+
+# Graded: 50/50 #
+
+* Everything works as expected
